@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+.mypy_cache/
+.pytest_cache/
+# Cursor
+.cursor/
+node_modules/
+future-api.md
+IMPLEMENTATION.md
+KD.md
+MACD_IMPLEMENTATION.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
+QUICK_START.md
+VERIFICATION_REPORT.md
+WEBSOCKET_GUIDE.md
+WINDSURF_QUICK_REFERENCE.md
